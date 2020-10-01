@@ -1,6 +1,8 @@
 The raimbow poem
 red
 blue
+orange 
+purple
 yellow
 green
 this rambow poem
